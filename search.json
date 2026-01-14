@@ -9,15 +9,15 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Breakdown",
     "section": "",
-    "text": "About this site"
+    "text": "Based on the 2025 PGA Tour win data, the season was defined by extreme statistical dominance at the top and high scoring volatility across different venues. Scottie Scheffler separated himself from the world’s best by capturing four titles, including two majors and a Signature Event, maintained through a historically low scoring average on difficult setups. Rory McIlroy followed closely with three marquee victories, most notably his Grand Slam-completing win at the Masters. Outside of these two, the parity on tour was evident: eleven different players split the remaining eleven trophies. Winning scores ranged from a deep -24 at Kapalua, where Hideki Matsuyama took advantage of wide fairways, to a grueling -1 at Oakmont, where J.J. Spaun outlasted the field in the most demanding scoring environment of the year."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Golf Project",
     "section": "",
-    "text": "Statistics on PGA Tour winners from 2025\n\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2025 PGA Tour Season Winners\n\n\nAnalysis of Tournament Champions and Winning Scores\n\n\nTournament\nWinner\nScore\nCategory\n\n\n\n\nThe Sentry\nHideki Matsuyama\n-24\nSignature Event\n\n\nSony Open\nNick Taylor\n-17\nFull Field\n\n\nAmerican Express\nSepp Straka\n-22\nFull Field\n\n\nFarmers Insurance Open\nHarris English\n-14\nFull Field\n\n\nAT&T Pebble Beach\nRory McIlroy\n-13\nSignature Event\n\n\nWM Phoenix Open\nThomas Detry\n-18\nFull Field\n\n\nGenesis Invitational\nLudvig Åberg\n-14\nSignature Event\n\n\nArnold Palmer Invitational\nRussell Henley\n-15\nSignature Event\n\n\nTHE PLAYERS Championship\nRory McIlroy\n-19\nFlagship Event\n\n\nMasters Tournament\nRory McIlroy\n-12\nMajor\n\n\nRBC Heritage\nJustin Thomas\n-19\nSignature Event\n\n\nPGA Championship\nScottie Scheffler\n-11\nMajor\n\n\nMemorial Tournament\nScottie Scheffler\n-15\nSignature Event\n\n\nU.S. Open\nJ.J. Spaun\n-1\nMajor\n\n\nTravelers Championship\nKeegan Bradley\n-20\nSignature Event\n\n\nThe Open Championship\nScottie Scheffler\n-14\nMajor\n\n\nBMW Championship\nScottie Scheffler\n-15\nFedExCup Playoff\n\n\nTour Championship\nTommy Fleetwood\n-18\nFedExCup Playoff"
+    "text": "Statistics on PGA Tour winners from 2025\n\n\n\n\n\n\n\n\n\nThomas Detry, Sepp Straka headshots not available due to tour card privileges"
   }
 ]
